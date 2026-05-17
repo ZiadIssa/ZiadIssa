@@ -24,7 +24,7 @@ A responsive, and functional website built to track shipments worldwide, and sho
 
 ### Ferragosto Gelateria - Gelato Store Website
 A website for an upcoming gelateria store, full of UI/UX examples, showcase of animations and design
-*   *Live:* [https://ferragostos.netlify.app/](https://ferragostos.netlify.app/)
+*   *Live:* [https://ferragostogelateria.com](https://ferragostos.netlify.app/)
 *   *Built with:* NextJS
 
 ---
