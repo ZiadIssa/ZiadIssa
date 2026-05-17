@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hey there, I'm Zeyad 👋
 
-<!--
-**ZiadIssa/ZiadIssa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Game Developer and UI/UX Designer who loves bringing worlds to life and making sure players actually enjoy navigating them.
+I bridge the gap between satisfying gameplay code and crisp, intuitive user interfaces. 
 
-Here are some ideas to get you started:
+Here is a look at what I’ve been building lately!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🕹️ Gameplay Showcases
+
+---
+
+## 🎨 UI/UX & Menu Creation
+
+
+## 🌐 Web Creations
+When I'm not inside a game engine, I build websites for businesses
+
+### Deeb International - Shipping Company Website
+A responsive, and functional website built to track shipments worldwide, and showcase the company details.
+*   *Live:* [https://deebinternational.com/](https://deebinternational.com/)
+*   *Built with:* NextJS
+
+### Ferragosto Gelateria - Gelato Store Website
+A website for an upcoming gelateria store, full of UI/UX examples, showcase of animations and design
+*   *Live:* [https://ferragostos.netlify.app/](https://ferragostos.netlify.app/)
+*   *Built with:* NextJS
+
+---
+
+## 🛠️ My Toolbox
+
+*   *Engines & Tools:* Godot, Figma, Photoshop Touch, Blender
+*   *Languages:* Python, GDscript, NextJS, JavaScript, HTML/CSS
+*   *Specialties:* UI/UX, Gameplay Programming, State Machines
